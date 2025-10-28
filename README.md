@@ -8,7 +8,7 @@
 
 ## About Me
 
-<p>Hey there! I'm <strong style="color: #6F37E4;">Joaquim André</strong>, a passionate Full Stack Developer and UI/UX Designer who loves crafting beautiful and functional digital experiences. I bridge the gap between design and development, creating seamless user interfaces with clean, efficient code. When I'm not coding or designing, you'll find me exploring new technologies and staying up-to-date with the latest design trends. I believe great products are born when aesthetic meets functionality!</p> 
+<p>Hey there! I'm <strong style="color: #6F37E4;">Joaquim</strong>, a passionate Full Stack Developer and UI/UX Designer who loves crafting beautiful and functional digital experiences. I bridge the gap between design and development, creating seamless user interfaces with clean, efficient code. When I'm not coding or designing, you'll find me exploring new technologies and staying up-to-date with the latest design trends. I believe great products are born when aesthetic meets functionality!</p> 
 
 ## Technologies & Tools
 
