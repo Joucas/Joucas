@@ -1,21 +1,21 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=&fontSize=0&animation=tween"/>
+</div>
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="50%" align="center">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none;">
+<tr style="border: none;">
+<td width="50%" align="center" style="border: none;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=600&letterSpacing=&duration=2000&pause=500&color=6F37E4&background=FFFFFF&center=true&vCenter=true&width=450&height=150&lines=Hey!+I'm+Joaquim+;Full+Stack;and;Designer+UI%2FUX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=600&letterSpacing=&duration=2000&pause=500&color=6F37E4&center=true&vCenter=true&width=450&height=150&lines=Hey!+I'm+Joaquim+;Full+Stack+Developer;and;Designer+UI%2FUX)](https://git.io/typing-svg)
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="border: none;">
 
 <img src="YOUR_GIF_OR_IMAGE_URL_HERE" width="400" alt="Profile Image">
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
