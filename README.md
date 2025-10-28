@@ -1,15 +1,11 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=&fontSize=0&animation=tween"/>
-</div>
-
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none;">
-<tr style="border: none;">
-<td width="50%" align="center" style="border: none;">
+<table width="100%">
+<tr>
+<td width="50%" align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=600&letterSpacing=&duration=2000&pause=500&color=6F37E4&center=true&vCenter=true&width=450&height=150&lines=Hey!+I'm+Joaquim+;Full+Stack+Developer;and;Designer+UI%2FUX)](https://git.io/typing-svg)
 
 </td>
-<td width="50%" align="center" style="border: none;">
+<td width="50%" align="center">
 
 <img src="YOUR_GIF_OR_IMAGE_URL_HERE" width="400" alt="Profile Image">
 
