@@ -1,22 +1,10 @@
 <div align="center">
-
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="50%" align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=50&letterSpacing=&duration=2000&pause=500&color=6F37E4&background=FFFFFF&center=true&vCenter=true&width=500&height=100&lines=Hey!+I'm+Joaquim+;Full+Stack;and;Designer+UI%2FUX)](https://git.io/typing-svg)
-
-</td>
-<td width="50%" align="center">
-
-<img src="YOUR_GIF_OR_IMAGE_URL_HERE" width="400" alt="Profile Image">
-
-</td>
-</tr>
-</table>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=50&letterSpacing=&duration=2000&pause=500&color=6F37E4&background=FFFFFF&center=true&vCenter=true&width=500&height=445&lines=Hey!+I'm+Joaquim+;Full+Stack+Developer;and;Designer+UI%2FUX">
+    <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=50&letterSpacing=&duration=2000&pause=500&color=6F37E4&background=FFFFFF&center=true&vCenter=true&width=500&height=445&lines=Hey!+I'm+Joaquim+;Full+Stack+Developer;and;Designer+UI%2FUX" alt="Typing SVG" />
+  </picture>
+  <img src="profile picture.png" width="445" alt="Profile Image">
 </div>
-
 ---
 
 ## 👨‍💻 About Me
