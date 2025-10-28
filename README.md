@@ -10,12 +10,11 @@
 
 <p>Hey there! I'm <strong style="color: #6F37E4;">Joaquim André</strong>, a passionate Full Stack Developer and UI/UX Designer who loves crafting beautiful and functional digital experiences. I bridge the gap between design and development, creating seamless user interfaces with clean, efficient code. When I'm not coding or designing, you'll find me exploring new technologies and staying up-to-date with the latest design trends. I believe great products are born when aesthetic meets functionality!</p> 
 
----
-
 ## Technologies & Tools
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/-React%20native-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -37,7 +36,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
 ## GitHub Stats
 
@@ -57,8 +55,6 @@ Note: Top languages is only a metric of the languages my public code consists of
 
 </div>
 
----
-
 ## Connect With Me
 
 <div align="center">
@@ -71,8 +67,6 @@ Note: Top languages is only a metric of the languages my public code consists of
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/joucas)
 
 </div>
-
----
 
 <div align="center">
 
