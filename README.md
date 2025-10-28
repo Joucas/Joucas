@@ -1,9 +1,9 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=50&letterSpacing=&duration=2000&pause=500&color=6F37E4&background=FFFFFF&center=true&vCenter=true&width=400&height=445&lines=Hey!+I'm+Joaquim+;Full+Stack+Developer;and;Designer+UI%2FUX">
-    <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=50&letterSpacing=&duration=2000&pause=500&color=6F37E4&background=FFFFFF&center=true&vCenter=true&width=400&height=445&lines=Hey!+I'm+Joaquim+;Full+Stack+Developer;and;Designer+UI%2FUX" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=35&letterSpacing=&duration=2000&pause=500&color=6F37E4&background=FFFFFF&center=true&vCenter=true&width=400&height=245&lines=Hey!+I'm+Joaquim+;Full+Stack+Developer;and;Designer+UI%2FUX">
+    <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=35&letterSpacing=&duration=2000&pause=500&color=6F37E4&background=FFFFFF&center=true&vCenter=true&width=400&height=245&lines=Hey!+I'm+Joaquim+;Full+Stack+Developer;and;Designer+UI%2FUX" alt="Typing SVG" />
   </picture>
-  <img src="profile picture.png" width="345" alt="Profile Image">
+  <img src="profile picture.png" width="245" alt="Profile Image">
 </div>
 ---
 
