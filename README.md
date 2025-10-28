@@ -4,7 +4,7 @@
 <tr>
 <td width="50%" align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=600&letterSpacing=&duration=2000&pause=500&color=6F37E4&background=FFFFFF&center=true&vCenter=true&width=450&height=150&lines=Hey!+I'm+Joaquim+;Full+Stack;and;Designer+UI%2FUX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=600&letterSpacing=&duration=2000&pause=500&color=6F37E4&background=FFFFFF&center=true&vCenter=true&width=400&height=100&lines=Hey!+I'm+Joaquim+;Full+Stack;and;Designer+UI%2FUX)](https://git.io/typing-svg)
 
 </td>
 <td width="50%" align="center">
