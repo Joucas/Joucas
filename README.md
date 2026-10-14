@@ -68,6 +68,4 @@ Note: Top languages is only a metric of the languages my public code consists of
 
 ### 💜 Thanks for visiting! Feel free to explore my repositories and reach out!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Joucas&color=6F37E4&style=for-the-badge)
-
 </div>
